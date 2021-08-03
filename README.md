@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+Hello eveery one, this is my first repository file here.
+
+- 👋 Hi, I’m @Mahesh0334
+
+- 👀 I’m interested in contributing for some projects based on Java, Html, CSS.
+ 
+- 🌱 I’m currently doing my Bachelors in Computer Science Engineering.
+ 
+- 🐝 I'm still a beginner.
+ 
+- 📫 Reach me through mahe4334@gmail.com
+
+
 <!--
 **Mahesh0334/Mahesh0334** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
