@@ -1,16 +1,20 @@
 ### Hi there 👋
-
 Hello eveery one, this is my first repository file here.
-
 - 👋 Hi, I’m @Mahesh0334
-
-- 👀 I’m interested in contributing for some projects based on Java, Html, CSS.
- 
+- 👀 I’m interested in contributing for some projects based on Java, Html, CSS. 
 - 🌱 I’m currently doing my Bachelors in Computer Science Engineering.
- 
 - 🐝 I'm still a beginner.
- 
 - 📫 Reach me through mahe4334@gmail.com
+- 
+- My Websites Lists: 
+- 
+- NOTE:(Please open the link in laptop/Computer)
+- My Portfolio -> https://mahesh0334.github.io/My-Portfolio/
+- Number Prediction ->  https://mahesh0334.github.io/Number-Prediction/
+- Sketch Book -> https://mahesh0334.github.io/Sketch-book/
+- Sample Modal -> https://mahesh0334.github.io/Modal/
+
+
 
 
 <!--
