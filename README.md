@@ -5,7 +5,7 @@ Hello eveery one, this is my first repository file here.
 - 🌱 I’m currently doing my Bachelors in Computer Science Engineering.
 - 🐝 I'm still a beginner.
 - 📫 Reach me through mahe4334@gmail.com
-
+-
 - My Websites Lists: 
  
   NOTE:(Please open the link in laptop/Computer)
