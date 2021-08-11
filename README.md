@@ -11,6 +11,7 @@ Hello eveery one, this is my first repository file here.
   NOTE:(Please open the link in laptop/Computer)
 - My Portfolio -> https://mahesh0334.github.io/My-Portfolio/
 - Number Prediction ->  https://mahesh0334.github.io/Number-Prediction/
+- Dice Game -> https://mahesh0334.github.io/Dice-Game/
 - Sketch Book -> https://mahesh0334.github.io/Sketch-book/
 - Sample Modal -> https://mahesh0334.github.io/Modal/
 
